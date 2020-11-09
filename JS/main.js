@@ -11,7 +11,7 @@ function redirecionar(){
     window.open("https://www.tecmundo.com.br/internet/133561-5-sites-incriveis-simples-te-ajudar-passar-tempo.htm");
     window.location.href = "https://www.tecmundo.com.br/internet/133561-5-sites-incriveis-simples-te-ajudar-passar-tempo.htm";
     //open abre em outra aba
-    //href abre na mesma janela
+    //href abre na mesma janela//
 }
 
 function commouse(elemento){
